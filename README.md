@@ -1,2 +1,8 @@
-# news_retrofit_app
- want to know what's happening in Bulgaria from local Bulgarian sources ?  This is For you.
+# MY WEBSITE
+
+>>My Own Portfolio Website using HTML-CSS-JAVASCRIPT
+
+>>WELCOME animation was used from lottiefiles
+
+source - https://lottiefiles.com/31938-welcome
+ 
