@@ -1,6 +1,6 @@
 # MY WEBSITE
 
->>My Own Portfolio Website using HTML-CSS-JAVASCRIPT
+>>My Own Portfolio Website Developed  using HTML-CSS-JAVASCRIPT
 
 >>WELCOME animation was used from lottiefiles
 
